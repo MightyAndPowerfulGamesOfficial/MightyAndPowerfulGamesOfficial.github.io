@@ -4,7 +4,6 @@
 
 <iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/3375375"><a href="https://mightyandpowerfulgames.itch.io/assortment-of-pixel-characters-with-animations">Assortment of Pixel Characters with Animations by MightyAndPowerfulGames</a></iframe>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />

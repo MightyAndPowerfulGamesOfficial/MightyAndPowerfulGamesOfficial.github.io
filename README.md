@@ -45,7 +45,7 @@
       display: inline-flex;
       align-items: center;
       text-decoration: none;
-      color: #4f46e5;
+      color: #a60707;
       border: 1px solid #4f46e5;
       padding: 0.5rem 1rem;
       border-radius: 5px;

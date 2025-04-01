@@ -123,12 +123,6 @@
           </svg>
           LinkedIn
         </a>
-        <a href="mailto:team@mightyandpowerful.games">
-          <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M1.5 4.5h21a1.5 1.5 0 011.5 1.5v12a1.5 1.5 0 01-1.5 1.5h-21A1.5 1.5 0 010 18V6a1.5 1.5 0 011.5-1.5zm0 1.5v.511l10.5 6.479 10.5-6.479V6h-21zm21 1.978L12 14.5 1.5 8.478V18h21V7.978z"/>
-          </svg>
-          Email
-        </a>
       </div>
     </section>
 

@@ -31,7 +31,7 @@
     }
 
     h2 {
-      color: #4f46e5;
+      color: #f9f9f9;
       margin-bottom: 1rem;
     }
 
@@ -46,14 +46,14 @@
       align-items: center;
       text-decoration: none;
       color: #a60707;
-      border: 1px solid #4f46e5;
+      border: 1px solid #f9f9f9;
       padding: 0.5rem 1rem;
       border-radius: 5px;
       transition: background 0.2s, color 0.2s;
     }
 
     .social-links a:hover {
-      background-color: #4f46e5;
+      background-color: #a60707;
       color: white;
     }
 
@@ -75,7 +75,7 @@
     }
 
     button {
-      background-color: #4f46e5;
+      background-color: #f9f9f9;
       color: white;
       border: none;
       padding: 0.75rem;

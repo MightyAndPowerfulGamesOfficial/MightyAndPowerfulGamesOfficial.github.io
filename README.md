@@ -133,7 +133,7 @@
     </section>
 
     <section id="contact">
-      <h2>Contact Me at team@mightyandpowerful.games</h2>
+      <h1>Contact: team@mightyandpowerful.games</h2>
     </section>
   </main>
 </body>

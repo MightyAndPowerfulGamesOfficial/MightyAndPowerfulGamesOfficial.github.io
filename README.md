@@ -119,7 +119,7 @@
     <section id="social">
       <h2>Connect with me</h2>
       <div class="social-links">
-        <a href="[https://linkedin.com/](https://www.linkedin.com/in/micajah-capehart-bb5a76309/)" target="_blank" rel="noopener">
+        <a href="https://www.linkedin.com/in/micajah-capehart-bb5a76309/" target="_blank" rel="noopener">
           <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
             <path d="M4.98 3.5C4.98 4.88 3.87 6 2.49 6 1.11 6 0 4.88 0 3.5 0 2.12 1.11 1 2.49 1c1.38 0 2.49 1.12 2.49 2.5zM0 8h5v16H0V8zm7.5 0h4.8v2.2h.07c.67-1.26 2.3-2.6 4.73-2.6C22.1 7.6 24 10.14 24 14.06V24h-5v-8.6c0-2.05-.04-4.7-2.86-4.7-2.87 0-3.3 2.24-3.3 4.55V24h-5V8z"/>
           </svg>

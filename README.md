@@ -98,13 +98,13 @@
 <body>
   <header>
     <h1>Mighty And Powerful Games</h1>
-    <p>Web Developer & Designer</p>
+    <p>Game Developer</p>
   </header>
   <main>
     <section id="about">
       <h2>About Me</h2>
       <p>
-        I am a full-stack Unity Developer with over 10 years of experience.
+        I am a Game Developer with over 10 years of experience in Unity.
       </p>
     </section>
 

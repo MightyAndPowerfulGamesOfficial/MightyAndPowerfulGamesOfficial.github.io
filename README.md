@@ -4,17 +4,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>About Me</title>
   <style>
+    :root {
+      --burgundy: #800020;
+      --burgundy-dark: #5e0018;
+      --background: #f9f9f9;
+      --text-color: #333;
+    }
+
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
       line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
+      background-color: var(--background);
+      color: var(--text-color);
     }
 
     header {
-      background-color: #a60707;
+      background-color: var(--burgundy);
       color: white;
       padding: 2rem 1rem;
       text-align: center;
@@ -31,7 +38,7 @@
     }
 
     h2 {
-      color: #f9f9f9;
+      color: var(--burgundy);
       margin-bottom: 1rem;
     }
 
@@ -45,15 +52,15 @@
       display: inline-flex;
       align-items: center;
       text-decoration: none;
-      color: #a60707;
-      border: 1px solid #f9f9f9;
+      color: var(--burgundy);
+      border: 1px solid var(--burgundy);
       padding: 0.5rem 1rem;
       border-radius: 5px;
       transition: background 0.2s, color 0.2s;
     }
 
     .social-links a:hover {
-      background-color: #a60707;
+      background-color: var(--burgundy);
       color: white;
     }
 
@@ -75,7 +82,7 @@
     }
 
     button {
-      background-color: #f9f9f9;
+      background-color: var(--burgundy);
       color: white;
       border: none;
       padding: 0.75rem;
@@ -85,7 +92,7 @@
     }
 
     button:hover {
-      background-color: #4338ca;
+      background-color: var(--burgundy-dark);
     }
 
     @media (max-width: 600px) {
@@ -104,7 +111,8 @@
     <section id="about">
       <h2>About Me</h2>
       <p>
-        I am a Game Developer with over 10 years of experience in Unity.
+        I am an experienced Unity Developer with over 10 years of experience ranging from Gameplay Programming to Shader Design.
+        In my free time I like to practice art and music.
       </p>
     </section>
 
@@ -123,11 +131,23 @@
           </svg>
           LinkedIn
         </a>
+        <a href="mailto:someone@example.com">
+          <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M1.5 4.5h21a1.5 1.5 0 011.5 1.5v12a1.5 1.5 0 01-1.5 1.5h-21A1.5 1.5 0 010 18V6a1.5 1.5 0 011.5-1.5zm0 1.5v.511l10.5 6.479 10.5-6.479V6h-21zm21 1.978L12 14.5 1.5 8.478V18h21V7.978z"/>
+          </svg>
+          Email
+        </a>
       </div>
     </section>
 
     <section id="contact">
-      <h1>Contact: team@mightyandpowerful.games</h1>
+      <h2>Contact Me</h2>
+      <form>
+        <input type="text" placeholder="Your Name" required />
+        <input type="email" placeholder="Your Email" required />
+        <textarea rows="5" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
     </section>
   </main>
 </body>

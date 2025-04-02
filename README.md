@@ -105,7 +105,7 @@
 <body>
   <header>
     <h1>Mighty And Powerful Games</h1>
-    <p>Game Developer</p>
+    <p>Micajah Capehart - Game Developer</p>
   </header>
   <main>
     <section id="about">

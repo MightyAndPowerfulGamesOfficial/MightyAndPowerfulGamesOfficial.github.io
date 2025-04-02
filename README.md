@@ -111,8 +111,9 @@
     <section id="about">
       <h2>About Me</h2>
       <p>
-        I am an experienced Unity Developer with over 10 years of experience ranging from Gameplay Programming to Shader Design.
-        In my free time I like to practice art and music.
+        I’m a generalist Unity Developer with over 6 years of experience in programming, technical art, UI and tool dev. 
+        I love creating systems that drive gameplay, and the fancy editor tools that make it look professional.
+        In my free time, I like to practice art and music.
       </p>
     </section>
 

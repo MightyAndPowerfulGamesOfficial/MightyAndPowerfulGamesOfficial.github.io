@@ -112,7 +112,7 @@
       <h2>About Me</h2>
       <p>
         I’m a generalist Unity Developer with over 6 years of experience in programming, technical art, UI and tool dev. 
-        I love creating systems that drive gameplay, and the fancy editor tools that make it look professional.
+        I love creating systems that drive gameplay, and the fancy editor tools that make creating and design fast and convenient.
         In my free time, I like to practice art and music.
       </p>
     </section>
